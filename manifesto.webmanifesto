@@ -1,0 +1,13 @@
+{
+  "name": "Barbearia Tower",
+  "short_name": "Tower",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f0e7",
+  "theme_color": "#111316",
+  "icons": [
+    { "src": "logo.png", "sizes": "1024x1024", "type": "image/png" }
+  ]
+}
