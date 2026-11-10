@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Barbearia Tower">
+  <rect width="96" height="96" rx="22" fill="#111316"/>
+  <path d="M31 72V26h34v46h-8V34H39v38z" fill="#f2c46d"/>
+  <path d="M24 72h48v8H24zM42 45h12v8H42zM42 59h12v8H42z" fill="#f8f5ef"/>
+  <path d="M31 25l17-12 17 12z" fill="#d74f3f"/>
+</svg>
